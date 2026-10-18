@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="TripWise">
+  <rect width="64" height="64" rx="14" fill="#1E4D3B" />
+  <path
+    d="M32 12c-6.2 0-11.2 5-11.2 11.2 0 8.4 11.2 20.8 11.2 20.8s11.2-12.4 11.2-20.8C43.2 17 38.2 12 32 12Zm0 15.4a4.2 4.2 0 1 1 0-8.4 4.2 4.2 0 0 1 0 8.4Z"
+    fill="#F7F3EA"
+  />
+  <path d="M18 50h28" stroke="#C9A227" stroke-width="3.4" stroke-linecap="round" />
+</svg>
